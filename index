@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mandado de Prisão</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <center><img class="PM" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/EscudoPMESP.png/220px-EscudoPMESP.png"></center>
+    <div class="container">
+        <header>
+            <h1>Mandado de Prisão</h1>
+        </header>
+        <main>
+            <section class="mandato">
+                <h2>Dados do Mandato</h2>
+                <p><strong>Autoridade:</strong> Juízo de Direito da Vara Criminal</p>
+                <p><strong>Número do Mandato:</strong> 12345/2024</p>
+                <p><strong>Data de Emissão:</strong> 03/10/2024</p>
+                <p><strong>Nome do Acusado:</strong> Carlos Eduardo Alexandrino</p>
+                <p><strong>Motivo da Prisão:</strong> Homicídio Qualificado</p>
+            </section>
+            <section class="observacoes">
+                <h2>Observações</h2>
+                <p>Este mandado deve ser cumprido imediatamente, sob pena de responsabilidade.</p>
+            </section>
+        </main>
+        <footer>
+            <p>&copy; 2024 - Sistema Judiciário</p>
+        </footer>
+    </div>
+</body>
+</html>
